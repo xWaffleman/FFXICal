@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/FFXICal/static/media/ffxiEquipBg.42efcb6b.png"
   },
   {
-    "revision": "6d4f2a4bb968d9ebac0f47b3ea5cdc9c",
+    "revision": "5d8392178a86058bd6e78e059ed43584",
     "url": "/FFXICal/index.html"
   }
 ];
