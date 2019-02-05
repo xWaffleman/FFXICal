@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4c1c1db45be22eb409aa",
+    "revision": "8e69f822a4a90303d870",
     "url": "/FFXICal/static/css/main.a49f9839.chunk.css"
   },
   {
-    "revision": "4c1c1db45be22eb409aa",
-    "url": "/FFXICal/static/js/main.4c1c1db4.chunk.js"
+    "revision": "8e69f822a4a90303d870",
+    "url": "/FFXICal/static/js/main.8e69f822.chunk.js"
   },
   {
     "revision": "dc376827da34d0cffe2c",
@@ -16,11 +16,7 @@ self.__precacheManifest = [
     "url": "/FFXICal/static/js/runtime~main.ddb21e85.js"
   },
   {
-    "revision": "42efcb6b47f309fe68813ed37d996edb",
-    "url": "/FFXICal/static/media/ffxiEquipBg.42efcb6b.png"
-  },
-  {
-    "revision": "f4ab4f3a074fcf10f9ad137d7b92a5fc",
+    "revision": "1b661fa3021ca2b55d4db61bb3e39be3",
     "url": "/FFXICal/index.html"
   }
 ];
